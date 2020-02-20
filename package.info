@@ -1,0 +1,21 @@
+#
+#Fri Mar 03 18:33:10 CET 2017
+owner=gvSIG Association
+code=showDALParameters
+java-version=j1_7
+official=false
+type=Script
+version=1.0.0-1
+state=testing
+operating-system=all
+dependencies=
+sources-url=
+web-url=
+architecture=all
+model-version=1.0.1
+categories=, devel
+description=Small utility that shows the parameters that a data provider supports to open a store or create an explorer.\n\nThe utility allows you to select a type of provider and displays the names of the parameters, their type, their default value and description.\n\nYou can select parameters in the list to display a small fraction of code to open a store with those parameters.
+owner-url=
+buildNumber=1
+gvSIG-version=2.3.1
+name=Scripts\: Show DAL parameters
